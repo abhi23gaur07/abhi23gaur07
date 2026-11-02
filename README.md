@@ -37,16 +37,14 @@
 
 ---
 
-### 🔭 Engineering Focus & Radar
+### 🔭 About Me & Current Focus
 
-| Field | Details |
-|---|---|
-| 🔭 **I’m currently working on** | Scalable IoT systems & full-stack web dashboards connecting smart hardware (ESP32 / Arduino / ARM) with modern cloud APIs. |
-| 👯 **I’m looking to collaborate on** | Open-source IoT frameworks, smart automation solutions, and data-driven full-stack applications. |
-| 🤝 **I’m looking for help with** | Advanced RTOS concepts, edge computing optimization, and large-scale MQTT / WebSocket pipeline architectures. |
-| 🌱 **I’m currently learning** | Embedded C/C++ architecture, MQTT broker integrations, and Next.js for high-performance dashboard interfaces. |
-| 💬 **Ask me about** | Sensor integration, microcontrollers (ESP32, Arduino), RESTful IoT backends, and React-driven 3D control dashboards. |
-| ⚡ **Fun fact** | I enjoy making hardware and software talk to each other — turning raw physical sensor signals into real-time web metrics is pure magic! |
+- 🔭 **I’m currently working on:** Scalable IoT systems and full-stack web dashboards connecting smart hardware (ESP32/Arduino) with modern cloud APIs.
+- 👯 **I’m looking to collaborate on:** Open-source IoT frameworks, smart automation solutions, and data-driven full-stack applications.
+- 🤝 **I’m looking for help with:** Advanced RTOS concepts, edge computing optimization, and large-scale MQTT/WebSocket pipeline architectures.
+- 🌱 **I’m currently learning:** Embedded C/C++ architecture, MQTT broker integrations, and Next.js for high-performance dashboard interfaces.
+- 💬 **Ask me about:** Sensor integration, Microcontrollers (ESP32, Arduino), RESTful IoT backends, and React-driven control dashboards.
+- ⚡ **Fun fact:** I enjoy making hardware and software talk to each other—turning physical sensor signals into real-time web metrics is pure magic!
 
 ---
 
