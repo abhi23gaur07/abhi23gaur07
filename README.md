@@ -54,7 +54,6 @@
 
 - 🥇 **Rank #1 in Hardware Category** — *Smart India Hackathon (SIH) Internal Round*, Rashtriya Raksha University.
 - 🏅 **Rank #8 Overall Category** — Out of 64 top competing engineering teams across the university.
-- 🎖️ **Top ECE Innovator** — *RRU Engineering & Technology Innovation Showcase* (Edge IoT & public safety telemetry).
 - 🌟 **Social Innovation Recognition** — *Assistive Healthcare Engineering Initiative for NER Dementia Patients*.
 
 ---
@@ -243,3 +242,4 @@ Ready to build something impactful or explore innovative hardware-software archi
 <sub>Crafted with passion for Silicon, Schematics, and Scalable Web Architectures • <b>Abhishek Gaur</b></sub>
 
 </div>
+
